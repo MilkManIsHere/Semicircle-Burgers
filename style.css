@@ -1,0 +1,22 @@
+body {
+	background-image: url("background.png");
+	font-family: sans-serif;
+}
+
+#tab {
+	color: green;
+	text-decoration: none;
+}
+
+#tab:hover {
+	color: lightgreen;
+}
+
+#tab:active {
+	color: darkgreen;
+}
+
+#archive {
+	color: blue;
+	text-decoration: none;
+}
